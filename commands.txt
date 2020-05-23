@@ -1,0 +1,47 @@
+  715  git init
+  716  touch processes.txt
+  717  ls
+  718  ps aux
+  719  processex.txt > ps aux
+  720  ps aux > processes.txt 
+  721  ls
+  722  cat processes.txt 
+  723  copy processes.txt copy.txt
+  724  ls
+  725  cat ps
+  726  cad ps
+  727  copy processes.txt copy.txt
+  728  cp processes.txt 
+  729  cp processes.txt copy.txt
+  730  ls
+  731  mkdir kopia
+  732  mv copy.txt /kopia
+  733  mv copy.txt kopia/
+  734  ls
+  735  cd kopia
+  736  ls
+  737  cd ..
+  738  wc -l
+  739  ls
+  740  wc -l processes.txt 
+  741  wc -l processes.txt < processes.txt 
+  742  ls
+  743  cat processes.txt 
+  744  processes.txt < wc -l processes.txt 
+  745  wc -l processes.txt >> processes.txt 
+  746  ls
+  747  cat processes.txt 
+  748  grep --help
+  749  grep -i "bin" processes.txt
+  750  grep -i "bin" processes.txt >> processes.txt 
+  751  grep -i "bin" kopia/copy.txt
+  752  grep -i "bin" kopia/copy.txt >> processes.txt 
+  753  ls
+  754  histora
+  755  history
+  756  ls
+  757  touch commands.txt
+  758  ls
+  759  history
+  760  cd ..
+  761  history | tail -n 47 >> commands.txt 
